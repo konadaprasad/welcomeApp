@@ -1,0 +1,67 @@
+/* Write your CSS here */
+.container {
+  height: 100vh;
+  font-family: 'roboto';
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 100px;
+}
+.container1 {
+  margin-top: 100px;
+  height: 200px;
+  width: 300px;
+  background-color: #000000;
+  background-size: cover;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+.heading {
+  font-size: 18px;
+  color: #ffffff;
+}
+.button1 {
+  height: 50px;
+  width: 100px;
+  border-radius: 5px;
+  border-style: solid;
+  background-color: #ffffff;
+  border-width: 0px;
+  color: #000000;
+  align-self: center;
+}
+
+.container2 {
+  margin-top: 100px;
+  height: 200px;
+  width: 300px;
+  background-color: #ffffff;
+  background-size: cover;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  border-color: #000000;
+  border-style: solid;
+  border-width: 1px;
+}
+.heading1 {
+  font-size: 18px;
+  color: #000000;
+}
+.button2 {
+  height: 50px;
+  width: 100px;
+  border-radius: 5px;
+  border-width: 1px;
+  border-style: solid;
+  background-color: #ffffff;
+  color: #000000;
+  align-self: center;
+  border-color: #000000;
+}
